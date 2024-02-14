@@ -28,6 +28,7 @@ NIE JESTEM AUTOREM MATERIAŁÓW ZAMIESZCZONYCH W TYM REPOZYTORIUM, AUTORÓW POSZ
 - NOWA baza pytań klasa A ze strony UKE.pdf - nowa baza pytań na kategorię A
 - NOWA baza pytań klasa C ze strony UKE.pdf - nowa baza pytań na kategorię C
 - Linki.txt - lista wybranych linków które mogą pomóc w nauce do egzaminu
+- Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 16 stycznia 2015 r. w sprawie świadectw operatora urządzeń radiowych załącznik nr 6.pdf - załącznik rozporządzenia które określa zakres materiału według którego odbywa się egzamin
 
 
 ## Aktualizacja / kontakt
